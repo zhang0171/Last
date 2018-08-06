@@ -14,7 +14,7 @@ import Sjal from './components/sjal';
 const active={color:'red'}
 class App extends React.Component {
   one(){
-    // window.location.reload();
+    window.location.reload();
   }
 
   render() {
