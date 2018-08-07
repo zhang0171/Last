@@ -9,7 +9,7 @@ class Sjal extends React.Component{
     render(){
         return(
               <div>
-            商家案列商家案列商家案列商家案列商家案列商家案列
+            商家案列商家案列商家案列商家案列商家案列商家案列kkkkkkkkkkkkk
               </div>  
         )
     }
