@@ -65,7 +65,6 @@
 }
 .Fan-r-2{
     height:240px;
-    background:rgb(172, 192, 223);
 }
 .Fan-ipt1,.Fan-ipt2{
     height:45.67px;
@@ -94,7 +93,9 @@ input{
     line-height: 19px;
     color: #596780;
 }
-
+.Fan-ah:hover{
+    cursor: pointer;
+}
 
 
 
