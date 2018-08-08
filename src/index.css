@@ -90,10 +90,44 @@ a{
   width:88px;
   height:81px;
 }
-/*.Fan-zi-8{
+.Fan-zi-8{
   width:104px;
   height:81px;
-}*/
+
+}
+footer{
+  height:66px;
+  line-height:66px;
+  background: #25292e;
+  color: #666;
+  text-align: center;
+}
+a:hover{
+  cursor: pointer;
+  color:#3E82F7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
