@@ -13,6 +13,7 @@ class Login extends React.Component{
                     <div className='Fan-ss-2'>
                       <div className=''>
                        你脚踩的地狱只是天堂的倒影
+                       我唇角的故事也是时间的灰烬
                       </div>
                     </div>
                   </div>
