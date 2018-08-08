@@ -203,7 +203,7 @@ class Sjal extends React.Component{
 				$(window).scroll(function(){
 						var scrollTop = $(this).scrollTop();
 						var scrollTop1 = $(".content").offset().top;
-						if(scrollTop>=scrollTop1+480){
+						if(scrollTop>=scrollTop1+580){
 							$(".nav").css({"position":"fixed","top":0})
 						}else{
 							$(".nav").css({"position":"relative"})
