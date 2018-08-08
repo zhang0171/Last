@@ -11,7 +11,9 @@ class Login extends React.Component{
                   <div className='Fan-second-son'>
                     <div className='Fan-ss-1'></div>
                     <div className='Fan-ss-2'>
-                      <div className=''></div>
+                      <div className=''>
+                       你脚踩的地狱只是天堂的倒影
+                      </div>
                     </div>
                   </div>
 
