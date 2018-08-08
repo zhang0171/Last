@@ -87,7 +87,7 @@ class Sjal extends React.Component{
     render(){
         return(
               <div>
-              	 <Button type="primary" onClick={this.showModal} >Modal</Button>
+              	{/* <Button type="primary" onClick={this.showModal} >Modal</Button>*/}
 			        <Modal
 			          
 			          visible={this.state.visible}
@@ -102,10 +102,10 @@ class Sjal extends React.Component{
 			          	<p>提交真实有效的信息，可获得企业版体验机会</p>
 			          </div>
 			          <div class='tmiddle'>
-			          		<input placeholder="您的企业名称"  ref='mingcheng'/>
-			          		<input placeholder="您的行业" ref='hangye'/>
-			          		<input placeholder="您的姓名" ref='xingming'/>
-			          		<input placeholder="您的手机号" ref='phone'/>
+			          		<Input placeholder="您的企业名称"  ref='mingcheng'/>
+			          		<Input placeholder="您的行业" ref='hangye'/>
+			          		<Input placeholder="您的姓名" ref='xingming'/>
+			          		<Input placeholder="您的手机号" ref='phone'/>
 			          		<input type="button" value='提交信息' onClick={this.commit.bind(this)}/>
 			          </div>
 			          <div class='tbottom'>
