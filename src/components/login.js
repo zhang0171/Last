@@ -1,4 +1,5 @@
 import React from 'react';
+import '../Fan-css/log.css'
 
 class Login extends React.Component{
     constructor(props){
@@ -6,8 +7,14 @@ class Login extends React.Component{
     }
     render(){
         return(
-              <div>
-                  注册<br />
+              <div style={{'position':'absolute','width':'100%','height':'100%','background':'#3c3b4d'}}>
+                  <div className='Fan-second-son'>
+                    <div className='Fan-ss-1'></div>
+                    <div className='Fan-ss-2'>
+                      <div className=''></div>
+                    </div>
+                  </div>
+
               </div>  
         )
     }

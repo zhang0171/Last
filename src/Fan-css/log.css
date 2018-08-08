@@ -1,0 +1,38 @@
+.Fan-second-son{
+    width:820px;
+    height:540px;
+    background: #ffffff;
+    position: absolute;
+    left:50%;top:50%;
+    transform:translate(-50%,-50%);
+    border-radius: 6px;
+}
+.Fan-ss-1{
+    width:300px;
+    height:100%;
+    background:url(https://qhstaticssl.kujiale.com/as/dc81a94281ffd2531613ec2a1f131fc9/reg-logo.png?x-oss-process=image/resize,m_fill,w_360,h_648) no-repeat center;
+    float: left;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+.Fan-ss-2{
+    width:520px;
+    height:100%;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
