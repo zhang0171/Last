@@ -10,8 +10,8 @@ import Ding from './ding';
 import Pz from './pz';
 import Dian from './dian';
 import Sjal from './sjal';
-
-const active={color:'red'}
+import $ from 'jquery';
+const active={color:'red'};
 
 class Change extends React.Component {
   one(){

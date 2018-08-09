@@ -19,7 +19,7 @@ class App extends React.Component {
               </Route>
               <Route path='/reg' component={Reg}></Route>
               <Route path='/login' component={Login}></Route>
-              <Redirect to="/change/sy" />
+              {/* <Redirect to="/change/sy" /> */}
             </div>
           </Router>
       </div>
